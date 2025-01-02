@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @hungwhen
-- 👀 I’m interested in ... A JOB
-- 🌱 I’m currently learning ... HOW TO GET A JOB
-- 💞️ I’m looking to collaborate on ... A JOB
-- 📫 How to reach me ... LINKEDIN
-- 😄 Pronouns: ... JOB/LESS
-- ⚡ Fun fact: ... I NEED A JOB
+- 👀 I’m interested in ... Windows/binary exploitation techniques 
+- 🌱 I’m currently learning ... the above!!!
+- 💞️ I’m looking to collaborate on ... the above :)
+- 📫 How to reach me ... linkedin
+- 😄 Pronouns: ... he/him
+- ⚡ Fun fact: ... i need to get a job
 
 <!---
 hungwhen/hungwhen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
